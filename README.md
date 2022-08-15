@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kunj</h1>
 <h3 align="center">A passionate developer learning new thing everyday and improving myself everyday</h3>
 
+![](https://github.com/kunjgit/kunjgit/blob/a659eefa9ba39775e0b63aaaf8eadc87998e4fbd/83087-developer-front-end.gif)
 
-
-- 🔭 I’m currently working on **face recognition project**
+- 🔭 I’m currently working on **some projects of open source**
 
 - 🌱 I’m currently learning **MERN stack**
 
