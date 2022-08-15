@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kunj</h1>
 <h3 align="center">A passionate developer learning new thing everyday and improving myself everyday</h3>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_WdTEui.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
-
+<iframe src="https://embed.lottiefiles.com/animation/18123"></iframe>
 
 - 🔭 I’m currently working on **face recognition project**
 
