@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kunj</h1>
 <h3 align="center">A passionate developer learning new thing everyday and improving myself everyday</h3>
-<img align="right" alt="kunj" width="400" src="https://drive.google.com/file/d/1f9IfgRUJAyOqRnDbTMBPOVYI_trWmdXv/view?usp=sharing">
+
 
 
 - 🔭 I’m currently working on **face recognition project**
