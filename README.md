@@ -13,9 +13,9 @@
 
 
 
--my github stats-->>
-![](https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<h3 align="left">My github stats:</h3>
 
+![](https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
