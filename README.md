@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Kunj</h1>
 <h3 align="center">A passionate developer learning new thing everyday and improving myself everyday</h3>
 
