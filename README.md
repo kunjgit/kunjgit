@@ -1,16 +1,9 @@
-<div id="user-content-toc">
-  <ul>
-    <summary align="center">
-             <h1 >Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /> Kunj Here</h1>
-    </summary>
-  </ul>
-</div>
+
+![](https://github.com/kunjgit/kunjgit/blob/main/github%20readme%20profile.gif)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=5CE1E6&center=true&vCenter=true&width=2000&height=400&lines=HEY+THERE+%F0%9F%91%8B+!+;KUNJ+HERE+%F0%9F%92%BB;DEVOPS;OPEN+SOURCE;CLOUD+NATIVE)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=0EF7AF&center=true&vCenter=true&width=2000&height=400&lines=DEVOPS;OPENSOURCE;CLOUDNATIVE)](https://git.io/typing-svg)
-        
  <table align="center">
   <tr>
     <td align="center">
