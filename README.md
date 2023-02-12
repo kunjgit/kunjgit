@@ -1,8 +1,9 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=5CE1E6&center=true&vCenter=true&width=2000&height=200&lines=HEY+THERE+%F0%9F%91%8B+!+;KUNJ+HERE+%F0%9F%92%BB;DEVOPS;OPEN+SOURCE;CLOUD+NATIVE)](https://git.io/typing-svg)
+
+
 ![](https://github.com/kunjgit/kunjgit/blob/main/github%20readme%20profile.gif)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=5CE1E6&center=true&vCenter=true&width=2000&height=400&lines=HEY+THERE+%F0%9F%91%8B+!+;KUNJ+HERE+%F0%9F%92%BB;DEVOPS;OPEN+SOURCE;CLOUD+NATIVE)](https://git.io/typing-svg)
 
 <summary align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />ABOUT ME</h1>
