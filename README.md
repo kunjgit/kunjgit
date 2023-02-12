@@ -6,10 +6,10 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400px" height="220px" >
+      <img alt="Contributions" src="https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/overview.svg#gh-dark-mode-only"  >
     </td>
     <td align="center">
-        <img src ="https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400px" height="220px">
+        <img src ="https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/languages.svg#gh-dark-mode-only">
     </td>
   </tr>
 </table>     
