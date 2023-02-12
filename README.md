@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kunj</h1>
 <h3 align="center">Coming soon......</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=02F7AB&width=435&lines=HEY!;KUNJ+PATEL+HERE;ASK+ME+ABOUT+DEVOPS+AND+CLOUDNATIVE)](https://git.io/typing-svg)
+
         
  <table align="center">
   <tr>
