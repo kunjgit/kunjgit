@@ -31,6 +31,6 @@
 </div>
 
 <summary align="center">
-<img  alt="Contributions" height="400px" width="400px" src="./profile-3d-contrib/profile-night-view.svg">
+<img  alt="Contributions" src="./profile-3d-contrib/profile-night-view.svg">
 </summary>
     
