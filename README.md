@@ -1,10 +1,15 @@
+<div id="user-content-toc">
+  <ul>
+    <summary align="center">
+             <h1 >Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /> Kunj Here</h1>
+    </summary>
+  </ul>
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /> I'm Kunj</h1>
-<h3 align="center">Coming soon......</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=02F7AB&width=435&lines=HEY!;KUNJ+PATEL+HERE;ASK+ME+ABOUT+DEVOPS+AND+CLOUDNATIVE)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=0EF7AF&center=true&vCenter=true&width=2000&height=400&lines=DEVOPS;OPENSOURCE;CLOUDNATIVE)](https://git.io/typing-svg)
         
  <table align="center">
   <tr>
@@ -20,4 +25,12 @@
 
 <summary> <b>Github Activites</b></summary>
 
-![github contributions](./profile-3d-contrib/profile-night-view.svg)
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Contributions" src="./profile-3d-contrib/profile-night-view.svg"  >
+    </td>
+  </tr>
+</table>     
