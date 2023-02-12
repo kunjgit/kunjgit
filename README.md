@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kunj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /> I'm Kunj</h1>
 <h3 align="center">Coming soon......</h3>
 
 
