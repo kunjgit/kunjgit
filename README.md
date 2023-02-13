@@ -69,14 +69,16 @@
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" /> GITHUB STATS</h1>
  </summary>
  
+ 
+ 
  <summary>
  <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/overview.svg#gh-dark-mode-only"  >
+      <img alt="Contributions" src="https://github.com/kunjgit/github-stats/blob/master/generated/overview.svg"  >
     </td>
     <td align="center">
-        <img src ="https://raw.githubusercontent.com/kunjgit/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+       <img src ="https://github.com/kunjgit/github-stats/blob/master/generated/languages.svg">
     </td>
   </tr>
 </table>     
