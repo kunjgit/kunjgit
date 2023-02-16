@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=10eb88&center=true&vCenter=true&width=2000&height=200&lines=HEY+THERE+%F0%9F%91%8B+!+;KUNJ+HERE+%F0%9F%92%BB;DEVOPS;OPEN+SOURCE;CLOUD+NATIVE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HI+%F0%9F%91%8B+!+;I+AM+KUNJ+PATEL+%F0%9F%92%BB;DEVOPS;OPEN+SOURCE;CLOUD+NATIVE)](https://git.io/typing-svg)
 
 
 ![](https://github.com/kunjgit/kunjgit/blob/main/github%20readme%20profile.gif)
