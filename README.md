@@ -110,6 +110,6 @@
         
 
 <summary align="center">
-<img  alt="Contributions" src="./profile-3d-contrib/profile-night-view.svg">
+<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-view.svg">
 </summary>
     
