@@ -5,9 +5,9 @@
 ![](https://github.com/kunjgit/kunjgit/blob/main/github%20readme%20profile.gif)
 
 
-<summary align="center" >
+<div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="60" height="60" />ABOUT ME</h1>
- </summary>
+ </div>
  
  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in a wide range of front-end technologies, including HTML, CSS, and JavaScript along with UI frameworks, such as Bootstrap, Material-UI and Tailwind CSS.
@@ -28,11 +28,11 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Goal: **Exploring everysingle things comes on way in depth**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **kunj2019@gmail.com**
 
-<summary align="center" >
+<div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Spouting Whale" width="60" height="60" /> ARTICLES</h1>
- </summary>
+ </div>
  
-  <summary>
+  <div>
  <table align="center">
   <tr>
    <td align="center">
@@ -46,13 +46,13 @@
     </td>
   </tr>
 </table>     
-</summary>
+</div>
  
  
 
-<summary align="center" >
+<div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="60" height="60" /> TOOLS</h1>
- </summary>
+ </div>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -85,11 +85,11 @@
 
 
 
-<summary align="center" >
+<div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" /> GITHUB STATS</h1>
- </summary>
+ </div>
  
- <summary>
+ <div>
  <table align="center">
   <tr>
     <td align="center">
@@ -100,16 +100,16 @@
     </td>
   </tr>
 </table>     
-</summary>
+</div>
 
 
-<summary align="center" >
+<div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
- </summary>
+ </div>
 
         
 
-<summary align="center">
+<div align="center">
 <img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-view.svg">
-</summary>
+</div>
     
