@@ -12,7 +12,7 @@
  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="25" height="25" /> Proficient in a wide range of front-end technologies, including HTML, CSS, and JavaScript along with UI frameworks, such as Bootstrap, Material-UI and Tailwind CSS.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in DevOps, with extensive experience in using its core concepts and features to build complex tools and by depoying them on cloud by following the devops cycle and having clean hands on CI/CD.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Proficient in DevOps, with extensive experience in using its core concepts and features to build complex tools and by deploying them on cloud by following the devops cycle and having clean hands on CI/CD.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> Contributing to some exciting open source project have been always fun .
 
