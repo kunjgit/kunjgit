@@ -92,7 +92,7 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://github.com/kunjgit/github-stats/blob/master/generated/overview.svg"  >
+      <img alt="Contribution Section" src="https://github.com/kunjgit/github-stats/blob/master/generated/overview.svg"  >
     </td>
     <td align="center">
        <img src ="https://github.com/kunjgit/github-stats/blob/master/generated/languages.svg">
