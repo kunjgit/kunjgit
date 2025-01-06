@@ -35,7 +35,7 @@
 
 |  |  |
 | ------- | ------- |
-| ![CertiCraft](https://github.com/kunjgit/kunjgit/assets/103763618/88fb8aad-2614-4d14-9586-0f2524a9bc28) [**CertiCraft**](https://certicraft.co) | ![GitGinie](https://github.com/kunjgit/kunjgit/assets/103763618/a3fa9ff9-d9f0-40eb-8ff7-2744af081298) [**GitGinie**](https://gitginie.co) |
+| ![CertiCraft](https://github.com/kunjgit/kunjgit/assets/103763618/88fb8aad-2614-4d14-9586-0f2524a9bc28) [**CertiCraft**](https://certicraft.tech) | ![GitGinie](https://github.com/kunjgit/kunjgit/assets/103763618/a3fa9ff9-d9f0-40eb-8ff7-2744af081298) [**GitGinie**](https://gitginie.vercel.app) |
 | Make Certifications easy like never before | Get your repository "Ginie" |
 | ![Proficiency](https://github.com/kunjgit/kunjgit/assets/103763618/2a72e58c-e8a7-477d-873b-4617e9ddd5f2) [**Proficiency**](https://proficiency.vercel.app) | ![SheSync](https://github.com/kunjgit/kunjgit/assets/103763618/84101428-b301-4a69-9acf-7a727f52d87f) [**SheSync**](https://github.com/kunjgit/shesync) |
 | Set Your schedule and increase your Proficiency | Sync your periods with SheSync |
